@@ -2873,7 +2873,7 @@
   letter-spacing: 4px;
 }
 
-.q2-wpapper {
+.wpapper-q3 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -2935,7 +2935,7 @@
   text-transform: uppercase;
 }
 
-.q3-wrapper {
+.wrapper-q4 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -2956,7 +2956,7 @@
   align-items: center;
 }
 
-.q4-wrapper {
+.wrapper {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3498,8 +3498,9 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 70vw;
+  width: 80vw;
   height: auto;
+  margin-right: 0px;
   padding-top: 40px;
   padding-bottom: 40px;
   -webkit-box-orient: vertical;
@@ -4234,9 +4235,9 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-right: auto;
+  margin-right: 0px;
   margin-bottom: 0px;
-  margin-left: auto;
+  margin-left: 0px;
   -webkit-box-pack: end;
   -webkit-justify-content: flex-end;
   -ms-flex-pack: end;
@@ -4264,34 +4265,129 @@
 }
 
 .listed-on-content-wrapper.uniswap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   width: 33%;
+  height: auto;
   padding-top: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
 }
 
 .listed-on-content-wrapper.gate {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   width: 33%;
   padding-top: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   border-right-width: 1px;
 }
 
 .listed-on-content-wrapper.coinmarket {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   width: 33%;
   padding-top: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  border-right-width: 0px;
 }
 
 .listed-on-content-wrapper.coingecko {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   width: 33%;
   padding-top: 40px;
   padding-bottom: 0px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   border-right-width: 1px;
 }
 
 .listed-on-content-wrapper.kucoin {
-  display: none;
+  display: block;
   width: 33%;
 }
 
 .listed-on-content-wrapper.pancakeswap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 33%;
+  height: auto;
+  padding-top: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  border-right-width: 1px;
+  border-right-color: #eaeaea;
+}
+
+.listed-on-content-wrapper.hotbit {
   width: 33%;
   padding-top: 40px;
   border-right-width: 0px;
@@ -4388,6 +4484,10 @@
 
 .bsc-logo-wrapper-token-page {
   margin-bottom: 60px;
+}
+
+.linkbit-link-block {
+  margin-bottom: 40px;
 }
 
 @media screen and (max-width: 991px) {
@@ -5908,6 +6008,11 @@
   .listed-on-content-wrapper.pancakeswap {
     width: auto;
     padding-top: 40px;
+  }
+
+  .listed-on-content-wrapper.hotbit {
+    width: auto;
+    border-right-width: 0px;
   }
 
   .kucoin-linkblock {
@@ -7610,6 +7715,11 @@
   }
 
   .listed-on-content-wrapper.pancakeswap {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .listed-on-content-wrapper.hotbit {
     padding-right: 20px;
     padding-left: 20px;
   }
