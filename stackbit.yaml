@@ -6,7 +6,7 @@ staticDir: "static"
 uploadDir: "images"
 pagesDir: "site"
 metadata:
-  title: "sienna networkqwertyuiop "
+  title: "sienna networkqwertyuiop"
   description: "Theme created in Webflow and converted with Udesly"
 models:
   blog:
