@@ -3495,7 +3495,7 @@
   height: auto;
   padding-top: 40px;
   padding-right: 40px;
-  padding-left: 40px;
+  padding-left: 60px;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
@@ -4252,6 +4252,8 @@
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
   -webkit-box-pack: end;
   -webkit-justify-content: flex-end;
   -ms-flex-pack: end;
@@ -4266,6 +4268,8 @@
   margin-right: auto;
   margin-left: auto;
   padding-top: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
   -webkit-box-pack: end;
   -webkit-justify-content: flex-end;
   -ms-flex-pack: end;
@@ -5780,7 +5784,7 @@
   .listed-left-area.frontpage {
     width: auto;
     height: auto;
-    padding: 40px 40px 0px;
+    padding: 40px 20px 0px 40px;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
@@ -6060,39 +6064,52 @@
   .listed-on-content-wrapper.uniswap {
     width: auto;
     padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
   }
 
   .listed-on-content-wrapper.gate {
     width: auto;
+    padding-right: 20px;
+    padding-left: 20px;
   }
 
   .listed-on-content-wrapper.coinmarket {
     width: auto;
+    padding-right: 20px;
+    padding-left: 20px;
   }
 
   .listed-on-content-wrapper.coingecko {
     width: auto;
-    padding-top: 40px;
-    padding-bottom: 0px;
+    padding: 40px 20px 0px;
   }
 
   .listed-on-content-wrapper.kucoin {
     width: auto;
     padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
   }
 
   .listed-on-content-wrapper.pancakeswap {
     width: auto;
     padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
   }
 
   .listed-on-content-wrapper.hotbit {
     width: auto;
+    padding-right: 20px;
+    padding-left: 20px;
     border-right-width: 0px;
   }
 
   .listed-on-content-wrapper.siennaswap {
     width: auto;
+    padding-right: 0px;
+    padding-left: 20px;
   }
 
   .kucoin-linkblock {
@@ -6913,7 +6930,7 @@
 
   .generic-frontpage-header.pos {
     margin-bottom: 20px;
-    font-size: 22px;
+    font-size: 24px;
     text-align: left;
   }
 
@@ -7779,43 +7796,43 @@
 
   .listed-on-content-wrapper.uniswap {
     padding-top: 20px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .listed-on-content-wrapper.gate {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .listed-on-content-wrapper.coinmarket {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .listed-on-content-wrapper.coingecko {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .listed-on-content-wrapper.kucoin {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .listed-on-content-wrapper.pancakeswap {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .listed-on-content-wrapper.hotbit {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .listed-on-content-wrapper.siennaswap {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .section-sienna-bsc-hero {
