@@ -436,6 +436,11 @@
   color: #fff;
   font-weight: 600;
   letter-spacing: 1px;
+  cursor: alias;
+}
+
+.blog-link-navbar.launch-app:hover {
+  background-color: #28282e;
 }
 
 .dropdown-toggle-navbar {
@@ -1050,10 +1055,6 @@
 
 .some-link-block {
   background-color: transparent;
-}
-
-.some-link-block.instagram {
-  display: block;
 }
 
 .community-header-frontpage {
@@ -3461,53 +3462,9 @@
   text-transform: uppercase;
 }
 
-.section-editorial-links {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  height: 80px;
-  margin-right: 40px;
-  margin-left: 40px;
-  padding-right: 40px;
-  padding-left: 40px;
-  -webkit-justify-content: space-around;
-  -ms-flex-pack: distribute;
-  justify-content: space-around;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  border-right: 1px solid #eaeaea;
-  border-bottom: 1px solid #eaeaea;
-  border-left: 1px solid #eaeaea;
-  background-color: #fff;
-}
-
-.editorial-grid {
-  -webkit-box-pack: stretch;
-  -webkit-justify-content: stretch;
-  -ms-flex-pack: stretch;
-  justify-content: stretch;
-  justify-items: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  grid-column-gap: 20px;
-  -ms-grid-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  -ms-grid-rows: auto;
-  grid-template-rows: auto;
-}
-
 .altcoin-logo {
   -webkit-filter: saturate(0%);
   filter: saturate(0%);
-}
-
-.section-editorial-slider {
-  display: none;
 }
 
 .section-listed.desktop {
@@ -3608,88 +3565,6 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-}
-
-.uniswap-content-wrapper {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 17vw;
-  margin-right: 1px;
-  padding-right: 40px;
-  padding-left: 40px;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  border-right: 1px solid #eaeaea;
-}
-
-.gate-content-wrapper {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 17vw;
-  margin-right: 1px;
-  padding-right: 40px;
-  padding-left: 40px;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  border-right: 1px solid #eaeaea;
-}
-
-.coinmarket-content-wrapper {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 17vw;
-  margin-right: 1px;
-  padding-right: 40px;
-  padding-left: 40px;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  border-right: 1px solid #eaeaea;
-}
-
-.coingecko-content-wrapper {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 16vw;
-  padding-right: 40px;
-  padding-left: 40px;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
 }
 
 .sienna-contract-add-link {
@@ -4262,27 +4137,6 @@
   text-decoration: underline;
 }
 
-.kucoin-content-wrapper {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: auto;
-  margin-right: 1px;
-  padding-right: 40px;
-  padding-left: 40px;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  border-right: 1px solid #eaeaea;
-}
-
 .row-one-div-block {
   display: -webkit-box;
   display: -webkit-flex;
@@ -4489,28 +4343,12 @@
   align-items: flex-start;
 }
 
-.kucoin-linkblock {
-  padding-top: 0px;
-  padding-bottom: 40px;
-}
-
 .pancakeswap-link-block {
   padding-bottom: 40px;
 }
 
 .forbes-logo {
   display: inline-block;
-}
-
-.link-block-forbes {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: start;
-  -webkit-justify-content: flex-start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
 }
 
 .link-to-secret-bridge {
@@ -4616,6 +4454,205 @@
 .link {
   color: #fff;
   text-decoration: underline;
+}
+
+.section-news-logo-slider {
+  margin-right: 40px;
+  margin-left: 40px;
+  border-right: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+}
+
+.section-news-logo-slider.tablet {
+  display: none;
+}
+
+.section-news-logo-slider.mobiile {
+  display: none;
+}
+
+.slider {
+  display: block;
+  height: 80px;
+  background-color: #fff;
+}
+
+.news-logo {
+  width: 50%;
+  height: 80px;
+}
+
+.news-logo._01 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.news-logo._02 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.news-logo._03 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.news-logo._04 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.news-logo._05 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.news-logo._06 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.news-logo._07 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.news-logo._08 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.logo-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.left-arrow-2 {
+  display: block;
+}
+
+.right-arrow-2 {
+  display: block;
+}
+
+.slide-nav-2 {
+  display: none;
+}
+
+.icon-3 {
+  margin: auto auto auto 20px;
+  background-color: transparent;
+  color: #949497;
+  font-size: 12px;
+}
+
+.icon-4 {
+  margin: auto 20px auto auto;
+  color: #949497;
+  font-size: 12px;
+}
+
+.gnu-link {
+  color: #28282e;
+}
+
+.section-pii {
+  margin-right: 40px;
+  margin-left: 40px;
+  border-right: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
 }
 
 @media screen and (max-width: 991px) {
@@ -4912,11 +4949,6 @@
   }
 
   .some-link-block.twitter {
-    margin-right: 20px;
-    margin-left: 20px;
-  }
-
-  .some-link-block.instagram {
     margin-right: 20px;
     margin-left: 20px;
   }
@@ -5698,138 +5730,11 @@
 
   .sienna-app-txt.mobile {
     margin-top: 24px;
+    color: #2070cc;
   }
 
   .link-to-app---toek-addresses {
     display: none;
-  }
-
-  .section-editorial-links {
-    display: none;
-  }
-
-  .section-editorial-slider {
-    display: block;
-    margin-right: 20px;
-    margin-left: 20px;
-  }
-
-  .editorial-slider {
-    height: 80px;
-    border-right: 1px solid #eaeaea;
-    border-bottom: 1px solid #eaeaea;
-    border-left: 1px solid #eaeaea;
-    background-color: #fff;
-  }
-
-  .slide-nav {
-    display: none;
-  }
-
-  .icon {
-    color: #bfbfc0;
-    font-size: 20px;
-  }
-
-  .icon-2 {
-    color: #bfbfc0;
-    font-size: 20px;
-  }
-
-  .yahoo-slider-link {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding-top: 20px;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-  }
-
-  .techcrunch-slider-link {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-  }
-
-  .coindesk-slider-link {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding-top: 25px;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-  }
-
-  .the-times-slider-link {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding-top: 25px;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-  }
-
-  .altcoin-slider-link {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding-top: 25px;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-  }
-
-  .techcrunch-slider-logo {
-    margin-top: 20px;
-  }
-
-  .left-arrow {
-    display: none;
-  }
-
-  .right-arrow {
-    display: none;
-  }
-
-  .altcoin-slider-logo {
-    -webkit-filter: saturate(0%);
-    filter: saturate(0%);
   }
 
   .section-listed.desktop {
@@ -5880,44 +5785,8 @@
     margin-bottom: 20px;
   }
 
-  .uniswap-content-wrapper {
-    width: auto;
-    padding-bottom: 40px;
-  }
-
-  .gate-content-wrapper {
-    width: auto;
-    padding-bottom: 40px;
-  }
-
-  .coinmarket-content-wrapper {
-    width: auto;
-    padding-bottom: 40px;
-  }
-
-  .coingecko-content-wrapper {
-    width: auto;
-    padding-bottom: 40px;
-  }
-
   .section-launchpad-header {
     height: 50vh;
-  }
-
-  .techeu-slider-link {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding-top: 25px;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
   }
 
   .section-local-telagram-channels {
@@ -6175,28 +6044,8 @@
     padding-left: 20px;
   }
 
-  .kucoin-linkblock {
-    padding-bottom: 20px;
-  }
-
   .pancakeswap-link-block {
     padding-bottom: 20px;
-  }
-
-  .link-block-forbes {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding-top: 27px;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
   }
 
   .section-sienna-bsc-hero {
@@ -6234,20 +6083,54 @@
     padding-left: 60px;
   }
 
-  .decrypt {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding-top: 27px;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
+  .section-news-logo-slider.desktop {
+    display: none;
+  }
+
+  .section-news-logo-slider.tablet {
+    display: block;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .news-logo._01.tablet {
+    width: 50%;
+  }
+
+  .news-logo._02.tablet {
+    width: 50%;
+  }
+
+  .news-logo._03 {
+    width: 50%;
+  }
+
+  .news-logo._04 {
+    width: 50%;
+  }
+
+  .news-logo._05.tablet {
+    width: 50%;
+  }
+
+  .news-logo._06 {
+    width: 50%;
+  }
+
+  .news-logo._07 {
+    width: 50%;
+  }
+
+  .news-logo._08 {
+    width: 50%;
+  }
+
+  .left-arrow-2 {
+    display: none;
+  }
+
+  .right-arrow-2 {
+    display: none;
   }
 }
 
@@ -7123,10 +7006,6 @@
     margin-bottom: 40px;
   }
 
-  .some-link-block.instagram {
-    margin-bottom: 40px;
-  }
-
   .some-link-block.discord {
     margin-right: 20px;
   }
@@ -7734,33 +7613,9 @@
     margin-top: 24px;
   }
 
-  .techcrunch-slider-logo {
-    margin-top: 25px;
-  }
-
   .listed-left-area.frontpage {
     padding-right: 20px;
     padding-bottom: 0px;
-    padding-left: 20px;
-  }
-
-  .uniswap-content-wrapper {
-    padding-right: 20px;
-    padding-left: 20px;
-  }
-
-  .gate-content-wrapper {
-    padding-right: 20px;
-    padding-left: 20px;
-  }
-
-  .coinmarket-content-wrapper {
-    padding-right: 20px;
-    padding-left: 20px;
-  }
-
-  .coingecko-content-wrapper {
-    padding-right: 20px;
     padding-left: 20px;
   }
 
@@ -7917,21 +7772,48 @@
   .section-sienna-bsc-hero {
     height: 50vh;
   }
-}
 
-#w-node-f1116442-1d6c-3795-1556-530551e1d598-09232376 {
-  -ms-grid-column-align: auto;
-  justify-self: auto;
-}
+  .section-news-logo-slider.tablet {
+    display: none;
+  }
 
-#w-node-_0ee8775d-121a-1e29-d817-47815436f04d-09232376 {
-  -ms-grid-column-align: auto;
-  justify-self: auto;
-}
+  .section-news-logo-slider.mobiile {
+    display: block;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
 
-#w-node-_30d3ae1f-9229-9b63-3ac1-aea85754f08e-09232376 {
-  -ms-grid-column-align: auto;
-  justify-self: auto;
+  .news-logo._01.mobil {
+    width: 100%;
+  }
+
+  .news-logo._02.mobil {
+    width: 100%;
+  }
+
+  .news-logo._03.mobil {
+    width: 100%;
+  }
+
+  .news-logo._04.mobil {
+    width: 100%;
+  }
+
+  .news-logo._05.mobil {
+    width: 100%;
+  }
+
+  .news-logo._06.mobil {
+    width: 100%;
+  }
+
+  .news-logo._07.mobil {
+    width: 100%;
+  }
+
+  .news-logo._08.mobil {
+    width: 100%;
+  }
 }
 
 html{visibility: visible;opacity:1;}
