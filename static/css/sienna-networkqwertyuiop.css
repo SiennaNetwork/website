@@ -5026,7 +5026,7 @@
 
   .some-link-block.medium {
     margin-right: 20px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 
   .some-link-block.telegram {
@@ -5045,6 +5045,11 @@
   }
 
   .some-link-block.discord {
+    margin-left: 20px;
+  }
+
+  .some-link-block.github {
+    margin-right: 20px;
     margin-left: 20px;
   }
 
@@ -6464,6 +6469,10 @@
     justify-content: center;
   }
 
+  .some-link-block.medium {
+    margin-left: 0px;
+  }
+
   .telegram-link-icon-pos.hero {
     -webkit-filter: none;
     filter: none;
@@ -7106,23 +7115,37 @@
   }
 
   .some-link-block.medium {
+    margin-right: 0px;
     margin-bottom: 40px;
   }
 
   .some-link-block.telegram {
+    margin-right: 0px;
     margin-bottom: 40px;
+    margin-left: 0px;
   }
 
   .some-link-block.reddit {
+    margin-right: 0px;
     margin-bottom: 40px;
+    margin-left: 0px;
   }
 
   .some-link-block.twitter {
+    margin-right: 0px;
     margin-bottom: 40px;
+    margin-left: 0px;
   }
 
   .some-link-block.discord {
-    margin-right: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .some-link-block.github {
+    margin-right: 0px;
+    margin-bottom: 40px;
+    margin-left: 0px;
   }
 
   .telegram-link-icon-pos.hero {
