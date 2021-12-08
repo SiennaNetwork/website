@@ -9,14 +9,14 @@ main-image:
 name: "Weekly Update #22"
 slug: "weekly-update-22"
 featured: false
-updated-on: "2021-12-07T05:10:22.209Z"
+updated-on: "2021-12-08T15:56:30.362Z"
 published-date-2: "28"
 read-time-in-min: "2 min."
 post-summary: "Sienna Network partnered with Shinobi. New reward pools on SiennaSwap."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61a4b44a28946a54e8eacde4_weekly-update-22%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-12-07T05:10:36.546Z"
+published-on: "2021-12-08T15:58:14.364Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

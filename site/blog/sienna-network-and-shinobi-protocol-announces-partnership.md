@@ -9,14 +9,14 @@ main-image:
 name: "Sienna Network and Shinobi Protocol announces partnership"
 slug: "sienna-network-and-shinobi-protocol-announces-partnership"
 featured: false
-updated-on: "2021-12-07T05:06:11.976Z"
+updated-on: "2021-12-08T15:52:37.346Z"
 published-date-2: "22"
 read-time-in-min: "2 min."
 post-summary: "Sienna Network and Shinobi, the protocol behind the bridge for a PII protecting wrapped version of Bitcoin"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61aee68fe6248ef79cc31eb3_Sienna%20X%20Shinobi%20Protocol%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-12-07T05:10:36.546Z"
+published-on: "2021-12-08T15:58:14.364Z"
 tags: "blog"
 layout: "single-blog.html"
 ---
