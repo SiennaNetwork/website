@@ -1,0 +1,10 @@
+{
+  "-33e2fa0c": {
+    "collection": "blog",
+    "query": {
+      "sort": [
+        "-created-on"
+      ]
+    }
+  }
+}

@@ -1,32 +1,22 @@
-const markdownIt = require("markdown-it");
 
-    // Add within your config module
-    const md = new markdownIt({
-    html: true,
-    });
-            
-
-      const createCollectionsAndFilters = require('./_utils/index.js');
+      const filters = require('./_utils/filters.js');
       
       module.exports = function(eleventyConfig) {
 
-        eleventyConfig.addFilter("markdown", (content) => {
-            if (typeof content == "string") {
-                return md.render(content);
-              }
-              return content;
-          });
-               
-        eleventyConfig.addPassthroughCopy({"theme/assets": "assets"});
+        function priceTemplate(amount, currencyCode) {
+            return `$ ${amount} USD`;
+        }
 
-        eleventyConfig.addPassthroughCopy("admin");
-        
-        createCollectionsAndFilters(eleventyConfig);
+        filters(eleventyConfig, {"currencyCode":"USD","symbol":"$","decimal":".","fractionDigits":2,"group":",","template":"{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}"}, priceTemplate);
+
+        eleventyConfig.addPassthroughCopy("static/**");
+
+        eleventyConfig.addPassthroughCopy("admin/**");
         
         return {
           dir: {
-            input: "cms",
-            includes: "../theme",
+            input: "site",
+            includes: "_views",
             output: "public"
           }
         };
