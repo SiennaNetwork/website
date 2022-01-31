@@ -1,22 +1,22 @@
 ---
-published-date-month: "August"
 _archived: false
 _draft: false
-created-on: "2021-08-09T11:21:21.769Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61110f8ef87abcb24d81f3d1_weekly-update-08%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #08"
-slug: "weekly-dev-update-08"
 featured: false
-updated-on: "2021-08-09T11:21:28.208Z"
+published-date-month: "August 2021"
+name: "Weekly Dev. Update #08"
 published-date-2: "08"
 read-time-in-min: "2 min."
 post-summary: "If the pre-report turns out fine then a launch date can be set."
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61110f8ef87abcb24d81f3d1_weekly-update-08%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61110f926cbb6311b13290e4_weekly-update-08%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-08-09T11:22:08.118Z"
+slug: "weekly-dev-update-08"
+updated-on: "2022-01-10T10:01:25.565Z"
+created-on: "2021-08-09T11:21:21.769Z"
+published-on: "2022-01-10T10:01:25.565Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

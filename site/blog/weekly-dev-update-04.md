@@ -1,22 +1,22 @@
 ---
-published-date-month: "July"
 _archived: false
 _draft: false
-created-on: "2021-07-12T08:17:49.086Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60ebfa15092c876c067278df_weekly-update-04%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #04"
-slug: "weekly-dev-update-04"
 featured: false
-updated-on: "2021-07-12T08:17:59.208Z"
+published-date-month: "July 2021"
+name: "Weekly Dev. Update #04"
 published-date-2: "11"
 read-time-in-min: "2 min."
 post-summary: "In this week’s update there is latest news about the progress of implementing the best solution."
+slug: "weekly-dev-update-04"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60ebfa19b2fd3459c098cfe2_weekly-update-04%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-07-12T08:18:48.291Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60ebfa15092c876c067278df_weekly-update-04%20Blog.jpg"
+  alt: ""
+updated-on: "2022-01-10T10:02:07.499Z"
+created-on: "2021-07-12T08:17:49.086Z"
+published-on: "2022-01-10T10:02:07.499Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

@@ -1,22 +1,22 @@
 ---
-published-date-month: "March"
 _archived: false
 _draft: false
+featured: false
+name: "Introducing Sienna Network"
+slug: "introducing-sienna-network"
+updated-on: "2022-01-10T10:04:27.989Z"
 created-on: "2021-03-29T19:26:56.022Z"
+published-on: "2022-01-10T10:04:27.989Z"
 main-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b49f37648dda519662f767_Introducing%20Sienna%20Blog.jpg"
   alt: ""
-name: "Introducing Sienna Network"
-slug: "introducing-sienna-network"
-featured: false
-updated-on: "2021-06-01T10:29:10.783Z"
-published-date-2: "18"
-read-time-in-min: "4 min."
-post-summary: "Aside from understanding, existing DeFi protocols are fundamentally flawed. Transactions are not private."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b49f3f55e0858f565d97e7_Introducing%20Sienna%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T10:29:43.183Z"
+read-time-in-min: "4 min."
+published-date-2: "18"
+published-date-month: "March 2021"
+post-summary: "Aside from understanding, existing DeFi protocols are fundamentally flawed. Transactions are not private."
 tags: "blog"
 layout: "single-blog.html"
 ---

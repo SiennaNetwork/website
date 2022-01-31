@@ -1,22 +1,22 @@
 ---
-published-date-month: "May"
 _archived: false
 _draft: false
-created-on: "2021-06-01T10:54:38.835Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b611c82fdfd4503a506275_Uniswap%20listing%20Blog.jpg"
-  alt: ""
-name: "Uniswap listing May 5th, 3pm UTC"
-slug: "uniswap-listing-may-5th-3pm-utc"
 featured: false
-updated-on: "2021-06-01T11:23:51.411Z"
+published-date-month: "May 2021"
+name: "Uniswap listing May 5th, 3pm UTC"
 published-date-2: "03"
 read-time-in-min: "2 min."
 post-summary: "Sienna is listing on Uniswap 1 hour after Polkstarter’s public sale."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b611ce1869dc315eed9d04_Uniswap%20listing%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T11:23:59.849Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b611c82fdfd4503a506275_Uniswap%20listing%20Blog.jpg"
+  alt: ""
+slug: "uniswap-listing-may-5th-3pm-utc"
+updated-on: "2022-01-10T10:03:37.431Z"
+created-on: "2021-06-01T10:54:38.835Z"
+published-on: "2022-01-10T10:03:37.431Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

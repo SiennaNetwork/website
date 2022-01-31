@@ -1,22 +1,22 @@
 ---
-published-date-month: "November"
 _archived: false
 _draft: false
-created-on: "2021-11-29T11:07:18.203Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61a4b445644bf7e8641ebacc_weekly-update-22%20Blog.jpg"
-  alt: ""
-name: "Weekly Update #22"
-slug: "weekly-update-22"
 featured: false
-updated-on: "2021-12-08T15:56:30.362Z"
+published-date-month: "November 2021"
+name: "Weekly Update #22"
 published-date-2: "28"
 read-time-in-min: "2 min."
 post-summary: "Sienna Network partnered with Shinobi. New reward pools on SiennaSwap."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61a4b44a28946a54e8eacde4_weekly-update-22%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-12-08T15:58:14.364Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61a4b445644bf7e8641ebacc_weekly-update-22%20Blog.jpg"
+  alt: ""
+slug: "weekly-update-22"
+updated-on: "2022-01-10T09:49:50.637Z"
+created-on: "2021-11-29T11:07:18.203Z"
+published-on: "2022-01-10T09:49:50.637Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

@@ -1,22 +1,22 @@
 ---
-published-date-month: "December"
 _archived: false
 _draft: false
-created-on: "2021-12-13T22:14:35.573Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61b7c39fdcf4133ef48977fc_weekly-update-24%20Blog.jpg"
-  alt: ""
-name: "Weekly Update #24"
-slug: "weekly-update-24"
 featured: false
-updated-on: "2021-12-13T22:14:35.573Z"
+published-date-month: "December 2021"
+name: "Weekly Update #24"
 published-date-2: "12"
 read-time-in-min: "3 min."
 post-summary: "SiennaSwap adds Bitcoin, Monero trading pairs in push for privacy-focused DeFi"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61b7c39fdcf4133ef48977fc_weekly-update-24%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61b7c39a7756cbc573b30681_weekly-update-24%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-12-13T22:14:35.573Z"
+slug: "weekly-update-24"
+updated-on: "2022-01-10T09:49:10.630Z"
+created-on: "2021-12-13T22:14:35.573Z"
+published-on: "2022-01-10T09:49:10.630Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

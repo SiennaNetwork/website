@@ -1,22 +1,22 @@
 ---
-published-date-month: "May"
 _archived: false
 _draft: false
-created-on: "2021-06-01T11:13:12.198Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b6163908e5c95f2f3cfc02_Sienna%20x%20ChainOfSecrets%20Blog.jpg"
-  alt: ""
-name: "Sienna partners with Chain of Secrets"
-slug: "sienna-partners-with-chain-of-secrets"
 featured: false
-updated-on: "2021-06-01T11:23:37.193Z"
+published-date-month: "May 2021"
+name: "Sienna partners with Chain of Secrets"
 published-date-2: "17"
 read-time-in-min: "1 min."
 post-summary: "Sienna is pleased to announce a partnership with Chain of Secrets"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b6163908e5c95f2f3cfc02_Sienna%20x%20ChainOfSecrets%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b6163e1b955825ddf0271b_Sienna%20x%20ChainOfSecrets%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T11:23:59.849Z"
+slug: "sienna-partners-with-chain-of-secrets"
+updated-on: "2022-01-10T10:03:15.322Z"
+created-on: "2021-06-01T11:13:12.198Z"
+published-on: "2022-01-10T10:03:15.322Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

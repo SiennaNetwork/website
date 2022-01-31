@@ -1,22 +1,22 @@
 ---
-published-date-month: "August"
 _archived: false
 _draft: false
-created-on: "2021-09-06T08:45:26.021Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135d4fa6af623cb22d07bdb_weekly-update-10%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #10"
-slug: "weekly-dev-update-10"
 featured: false
-updated-on: "2021-09-06T08:45:26.021Z"
+published-date-month: "August 2021"
+name: "Weekly Dev. Update #10"
 published-date-2: "22"
 read-time-in-min: "2 min."
 post-summary: "Latest developments for Sienna"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135d4fa6af623cb22d07bdb_weekly-update-10%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135d4fe659b1ad21dd8a232_weekly-update-10%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-09-06T08:45:26.021Z"
+slug: "weekly-dev-update-10"
+updated-on: "2022-01-10T10:01:00.120Z"
+created-on: "2021-09-06T08:45:26.021Z"
+published-on: "2022-01-10T10:01:00.120Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

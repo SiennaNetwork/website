@@ -1,22 +1,22 @@
 ---
-published-date-month: "September"
 _archived: false
 _draft: false
-created-on: "2021-09-13T09:02:43.367Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/613f13a03ae59b0a3f3b0009_weekly-update-13%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #13"
-slug: "weekly-dev-update-13"
 featured: false
-updated-on: "2021-09-20T19:04:30.071Z"
+published-date-month: "September 2021"
+name: "Weekly Dev. Update #13"
 published-date-2: "12"
 read-time-in-min: "2 min."
 post-summary: "Here are the latest development news for Sienna Network."
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/613f13a03ae59b0a3f3b0009_weekly-update-13%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/613f13a474766e6f6dc5285f_weekly-update-13%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-09-20T19:07:46.015Z"
+slug: "weekly-dev-update-13"
+updated-on: "2022-01-10T09:53:20.042Z"
+created-on: "2021-09-13T09:02:43.367Z"
+published-on: "2022-01-10T09:53:20.042Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

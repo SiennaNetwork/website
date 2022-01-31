@@ -1,22 +1,22 @@
 ---
-published-date-month: "June"
 _archived: false
 _draft: false
-created-on: "2021-06-21T09:23:57.575Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd8809c762ce89994b487e_weekly-update-01%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #01"
-slug: "weekly-update-01"
 featured: false
-updated-on: "2021-07-05T12:50:48.778Z"
+published-date-month: "June 2021"
+name: "Weekly Dev. Update #01"
 published-date-2: "20"
 read-time-in-min: "2 min."
 post-summary: "This week's highlight: Audit report for the rewards contracts / Extra SIENNA rewards"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd8812bfac6d22825ae80b_weekly-update-01%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-07-05T12:50:48.778Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd8809c762ce89994b487e_weekly-update-01%20Blog.jpg"
+  alt: ""
+slug: "weekly-update-01"
+updated-on: "2022-01-10T10:02:54.016Z"
+created-on: "2021-06-21T09:23:57.575Z"
+published-on: "2022-01-10T10:02:54.016Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

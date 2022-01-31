@@ -1,22 +1,22 @@
 ---
-published-date-month: "July"
 _archived: false
 _draft: false
-created-on: "2021-07-25T21:04:08.158Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60fdd194d806aae10ff9fef0_weekly-update-06%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #06"
-slug: "weekly-dev-update-06"
 featured: false
-updated-on: "2021-07-25T21:05:07.461Z"
+published-date-month: "July 2021"
+name: "Weekly Dev. Update #06"
 published-date-2: "25"
 read-time-in-min: "2 min."
 post-summary: "In this week’s development update we share more news about the fix for the rewards logic"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60fdd1981a5ab25ff69e7bec_weekly-update-06%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-07-25T21:05:07.461Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60fdd194d806aae10ff9fef0_weekly-update-06%20Blog.jpg"
+  alt: ""
+slug: "weekly-dev-update-06"
+updated-on: "2022-01-10T10:01:47.815Z"
+created-on: "2021-07-25T21:04:08.158Z"
+published-on: "2022-01-10T10:01:47.815Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

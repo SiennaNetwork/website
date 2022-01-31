@@ -1,22 +1,22 @@
 ---
-published-date-month: "March"
 _archived: false
 _draft: false
-created-on: "2021-03-30T08:58:06.647Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4c9dff51b7065be08482d_Introducing%20wSIENNA%20Blog.jpg"
-  alt: ""
-name: "News - Introducing wSIENNA"
-slug: "introducing-wsienna"
 featured: false
-updated-on: "2021-06-01T09:59:49.284Z"
+published-date-month: "March 2021"
+name: "News - Introducing wSIENNA"
 published-date-2: "22"
 read-time-in-min: "2 min"
 post-summary: "There are some exciting news to share with the Sienna community — introducing wrapped SIENNA (wSIENNA)!"
+slug: "introducing-wsienna"
+updated-on: "2022-01-10T10:04:16.538Z"
+created-on: "2021-03-30T08:58:06.647Z"
+published-on: "2022-01-10T10:04:16.538Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4c9dff51b7065be08482d_Introducing%20wSIENNA%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60acd3f6d7825a0752fb2d7d_Introducing%20wSIENNA%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T10:00:27.033Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

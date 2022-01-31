@@ -1,22 +1,22 @@
 ---
-published-date-month: "Sepember"
 _archived: false
 _draft: false
-created-on: "2021-09-27T14:22:21.841Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6151d38abc221510cff80f23_weekly-update-14%20SE%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #14 Special Edition"
-slug: "weekly-dev-update-14-special-edition"
 featured: false
-updated-on: "2021-09-27T14:22:21.841Z"
+published-date-month: "September 2021"
+name: "Weekly Dev. Update #14 Special Edition"
 published-date-2: "26"
 read-time-in-min: "2 min."
 post-summary: "SiennaSwap will launch October 7th 1pm UTC!! 🚀"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6151d387dd1e66dce10427cb_weekly-update-14%20SE%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-09-27T14:22:21.841Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6151d38abc221510cff80f23_weekly-update-14%20SE%20Blog.jpg"
+  alt: ""
+slug: "weekly-dev-update-14-special-edition"
+updated-on: "2022-01-10T09:52:48.399Z"
+created-on: "2021-09-27T14:22:21.841Z"
+published-on: "2022-01-10T09:52:48.399Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

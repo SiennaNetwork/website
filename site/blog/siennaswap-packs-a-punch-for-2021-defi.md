@@ -1,22 +1,22 @@
 ---
-published-date-month: "October"
 _archived: false
 _draft: false
-created-on: "2021-10-06T12:05:13.849Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/615d90e24bce30343b1cfbb1_SiennaSwap%20Blog.jpg"
-  alt: ""
-name: "SiennaSwap Packs A Punch for 2021 DeFi"
-slug: "siennaswap-packs-a-punch-for-2021-defi"
 featured: false
-updated-on: "2021-10-06T12:05:13.849Z"
+published-date-month: "October 2021"
+name: "SiennaSwap Packs A Punch for 2021 DeFi"
 published-date-2: "06"
 read-time-in-min: "3 min."
 post-summary: "“SiennaSwap’s launch marks a massive turning point both for Secret’s DeFi ecosystem and for DeFi in general."
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/615d90e24bce30343b1cfbb1_SiennaSwap%20Blog.jpg"
+  alt: ""
+slug: "siennaswap-packs-a-punch-for-2021-defi"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/615d90e51b4be961ea940214_SiennaSwap%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-10-06T12:05:13.849Z"
+updated-on: "2022-01-10T09:52:25.090Z"
+created-on: "2021-10-06T12:05:13.849Z"
+published-on: "2022-01-10T09:52:25.090Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

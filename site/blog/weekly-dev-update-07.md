@@ -1,22 +1,22 @@
 ---
-published-date-month: "August"
 _archived: false
 _draft: false
-created-on: "2021-08-01T20:16:31.143Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/610701066ed1ff137fd74890_weekly-update-07%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #07"
-slug: "weekly-dev-update-07"
 featured: false
-updated-on: "2021-08-01T20:16:31.143Z"
+published-date-month: "August 2021"
+name: "Weekly Dev. Update #07"
 published-date-2: "01"
 read-time-in-min: "1 min."
 post-summary: "Rewards logic was completed Wednesday this week and is now undergoing auditing at Certik!"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6107010fb5e45be0e4f97c97_weekly-update-07%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-08-01T20:16:31.143Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/610701066ed1ff137fd74890_weekly-update-07%20Blog.jpg"
+  alt: ""
+slug: "weekly-dev-update-07"
+updated-on: "2022-01-10T10:01:36.240Z"
+created-on: "2021-08-01T20:16:31.143Z"
+published-on: "2022-01-10T10:01:36.240Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

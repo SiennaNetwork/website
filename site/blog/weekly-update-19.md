@@ -1,22 +1,22 @@
 ---
-published-date-month: "November"
 _archived: false
 _draft: false
-created-on: "2021-11-09T10:32:21.735Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/618a4d19bb53b78ec6704735_weekly-update-19%20Blog.jpg"
-  alt: ""
-name: "Weekly Update #19"
-slug: "weekly-update-19"
 featured: false
-updated-on: "2021-11-09T10:34:37.895Z"
+published-date-month: "November 2021"
+name: "Weekly Update #19"
 published-date-2: "07"
 read-time-in-min: "2 min."
 post-summary: "Back again with another update. Let’s dive right in."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/618a4d1f9a0652bcb60a1cb4_weekly-update-19%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-11-09T10:34:37.895Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/618a4d19bb53b78ec6704735_weekly-update-19%20Blog.jpg"
+  alt: ""
+slug: "weekly-update-19"
+updated-on: "2022-01-10T09:50:33.987Z"
+created-on: "2021-11-09T10:32:21.735Z"
+published-on: "2022-01-10T09:50:33.987Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

@@ -1,22 +1,22 @@
 ---
-published-date-month: "November"
 _archived: false
 _draft: false
-created-on: "2021-11-16T12:12:12.661Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6193a00513c9ab30f55c33da_weekly-update-20%20Blog.jpg"
-  alt: ""
-name: "Weekly Update #20"
-slug: "weekly-update-20"
 featured: false
-updated-on: "2021-11-16T12:13:39.154Z"
+published-date-month: "November 2021"
+name: "Weekly Update #20"
 published-date-2: "14"
 read-time-in-min: "2 min."
 post-summary: "Here’s what has happened this week:"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6193a00513c9ab30f55c33da_weekly-update-20%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6193a00c72d3739820e43230_weekly-update-20%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-11-16T12:13:39.154Z"
+slug: "weekly-update-20"
+updated-on: "2022-01-10T09:50:25.193Z"
+created-on: "2021-11-16T12:12:12.661Z"
+published-on: "2022-01-10T09:50:25.193Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

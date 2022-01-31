@@ -1,22 +1,22 @@
 ---
-published-date-month: "September"
 _archived: false
 _draft: false
-created-on: "2021-09-06T09:10:58.584Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135db0bcf4638382b418948_weekly-update-12%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #12"
-slug: "weekly-dev-update-12"
 featured: false
-updated-on: "2021-09-06T09:10:58.584Z"
+published-date-month: "September 2021"
+name: "Weekly Dev. Update #12"
 published-date-2: "05"
 read-time-in-min: "2 min."
 post-summary: "In this week’s development update the latest news around the upcoming launch is shared."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135db10c62153ee35b46a16_weekly-update-12%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-09-06T09:10:58.584Z"
+slug: "weekly-dev-update-12"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135db0bcf4638382b418948_weekly-update-12%20Blog.jpg"
+  alt: ""
+updated-on: "2022-01-10T09:53:32.189Z"
+created-on: "2021-09-06T09:10:58.584Z"
+published-on: "2022-01-10T09:53:32.189Z"
 tags: "blog"
 layout: "single-blog.html"
 ---
