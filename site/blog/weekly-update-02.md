@@ -1,22 +1,22 @@
 ---
-published-date-month: "June"
 _archived: false
 _draft: false
-created-on: "2021-06-28T07:46:01.721Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd884e6b734bfc5d089023_weekly-update-02%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #02"
-slug: "weekly-update-02"
 featured: false
-updated-on: "2021-07-05T12:50:42.283Z"
+published-date-month: "June 2021"
+name: "Weekly Dev. Update #02"
 published-date-2: "27"
 read-time-in-min: "2 min."
 post-summary: "If all testing goes well for the second final deployment, Sienna will set the final launch"
+slug: "weekly-update-02"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd884e6b734bfc5d089023_weekly-update-02%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd8857c762ce2f5b4b4986_weekly-update-02%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-07-05T12:50:42.283Z"
+updated-on: "2022-01-10T10:02:43.363Z"
+created-on: "2021-06-28T07:46:01.721Z"
+published-on: "2022-01-10T10:02:43.363Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

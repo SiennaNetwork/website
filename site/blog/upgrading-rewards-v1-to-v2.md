@@ -1,22 +1,22 @@
 ---
-published-date-month: "October"
 _archived: false
 _draft: false
-created-on: "2021-10-18T09:10:27.610Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/616d39f5234cff083ec3703b_SiennaSwap%20Update%20Rewards%20Blog.jpg"
-  alt: ""
-name: "Upgrading Rewards V1 to V2"
-slug: "upgrading-rewards-v1-to-v2"
 featured: false
-updated-on: "2021-10-18T09:13:37.179Z"
+published-date-month: "October 2021"
+name: "Upgrading Rewards V1 to V2"
 published-date-2: "16"
 read-time-in-min: "2 min."
 post-summary: "During the launch everything was double checked but an unintended “feature” came to light right after launching."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/616d39f2e4778a84184efca4_SiennaSwap%20Update%20Rewards%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-10-18T09:14:47.035Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/616d39f5234cff083ec3703b_SiennaSwap%20Update%20Rewards%20Blog.jpg"
+  alt: ""
+slug: "upgrading-rewards-v1-to-v2"
+updated-on: "2022-01-10T09:51:15.267Z"
+created-on: "2021-10-18T09:10:27.610Z"
+published-on: "2022-01-10T09:51:15.267Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

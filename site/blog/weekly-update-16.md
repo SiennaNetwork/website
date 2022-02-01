@@ -1,21 +1,21 @@
 ---
-published-date-month: "October"
 _archived: false
 _draft: false
-created-on: "2021-10-18T10:07:36.499Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/616d42a434abf9851fb14e2f_weekly-update-16%20Blog.jpg"
-  alt: ""
-name: "Weekly Update #16"
-slug: "weekly-update-16"
 featured: false
-updated-on: "2021-10-18T10:41:08.268Z"
+published-date-month: "October 2021"
+name: "Weekly Update #16"
 published-date-2: "18"
 post-summary: "A lot has happened this week. Ready? Let’s dive in."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/616d42a7d202e726b8e39f7b_weekly-update-16%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-10-18T10:41:08.268Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/616d42a434abf9851fb14e2f_weekly-update-16%20Blog.jpg"
+  alt: ""
+slug: "weekly-update-16"
+updated-on: "2022-01-10T09:51:07.543Z"
+created-on: "2021-10-18T10:07:36.499Z"
+published-on: "2022-01-10T09:51:07.543Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

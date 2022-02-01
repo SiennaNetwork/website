@@ -1,22 +1,22 @@
 ---
-published-date-month: "November"
 _archived: false
 _draft: false
-created-on: "2021-11-16T12:21:15.585Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6193a20a300e600f4688f74a_Sienna%20x%20Stashhh%20Blog.jpg"
-  alt: ""
-name: "Sienna Network partners with Stashhh"
-slug: "sienna-network-partners-with-stashhh"
 featured: false
-updated-on: "2021-11-16T12:21:15.585Z"
+published-date-month: "November 2021"
+name: "Sienna Network partners with Stashhh"
 published-date-2: "15"
 read-time-in-min: "4 min."
 post-summary: "Secret NFTs are about to enter an explosive phase of growth due to its privacy enhancing features from Secret Network."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6193a20ebfba0e21f619c5c4_Sienna%20x%20Stashhh%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-11-16T12:21:15.585Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6193a20a300e600f4688f74a_Sienna%20x%20Stashhh%20Blog.jpg"
+  alt: ""
+slug: "sienna-network-partners-with-stashhh"
+updated-on: "2022-01-10T09:50:09.314Z"
+created-on: "2021-11-16T12:21:15.585Z"
+published-on: "2022-01-10T09:50:09.314Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

@@ -1,22 +1,22 @@
 ---
-published-date-month: "October"
 _archived: false
 _draft: false
-created-on: "2021-10-04T08:11:03.836Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/615ab70327fb0a7c5fe6dc42_weekly-update-15%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #15"
-slug: "weekly-dev-update-15"
 featured: false
-updated-on: "2021-10-04T08:11:03.836Z"
+published-date-month: "October 2021"
+name: "Weekly Dev. Update #15"
 published-date-2: "03"
 read-time-in-min: "2 min."
 post-summary: "4 days until the launch of SiennaSwap 🚀 🚀🚀"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/615ab70970bb362996674f50_weekly-update-15%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-10-04T08:11:03.836Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/615ab70327fb0a7c5fe6dc42_weekly-update-15%20Blog.jpg"
+  alt: ""
+slug: "weekly-dev-update-15"
+updated-on: "2022-01-10T09:52:33.841Z"
+created-on: "2021-10-04T08:11:03.836Z"
+published-on: "2022-01-10T09:52:33.841Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

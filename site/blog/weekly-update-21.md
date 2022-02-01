@@ -1,22 +1,22 @@
 ---
-published-date-month: "November"
 _archived: false
 _draft: false
-created-on: "2021-11-22T11:43:26.660Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/619b8254e1c4e21928043765_weekly-update-21%20Blog.jpg"
-  alt: ""
-name: "Weekly Update #21"
-slug: "weekly-update-21"
 featured: false
-updated-on: "2021-11-22T11:43:26.660Z"
+published-date-month: "November 2021"
+name: "Weekly Update #21"
 published-date-2: "21"
 read-time-in-min: "2 min."
 post-summary: "Bitmart listed wSIENNA 🚀"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/619b8254e1c4e21928043765_weekly-update-21%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/619b8250f8c22571105aaf8d_weekly-update-21%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-11-22T11:43:26.660Z"
+slug: "weekly-update-21"
+updated-on: "2022-01-10T09:49:59.482Z"
+created-on: "2021-11-22T11:43:26.660Z"
+published-on: "2022-01-10T09:49:59.482Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

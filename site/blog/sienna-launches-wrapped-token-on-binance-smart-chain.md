@@ -1,22 +1,22 @@
 ---
-published-date-month: "August"
 _archived: false
 _draft: false
-created-on: "2021-09-06T08:54:20.433Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135d7284663e5c88b532af1_Binance%20Smart%20Chain%20Blog.jpg"
-  alt: ""
-name: "Sienna launches wrapped token on Binance Smart Chain"
-slug: "sienna-launches-wrapped-token-on-binance-smart-chain"
 featured: false
-updated-on: "2021-09-06T08:54:53.404Z"
+published-date-month: "August 2021"
+name: "Sienna launches wrapped token on Binance Smart Chain"
 published-date-2: "31"
 read-time-in-min: "2 min."
 post-summary: "Sienna Network launches a wrapped SIENNA token on Binance Smart Chain."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135d72f4d8f80a5d1aa14d7_Binance%20Smart%20Chain%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-09-06T09:24:24.294Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135d7284663e5c88b532af1_Binance%20Smart%20Chain%20Blog.jpg"
+  alt: ""
+slug: "sienna-launches-wrapped-token-on-binance-smart-chain"
+updated-on: "2022-01-10T10:00:37.261Z"
+created-on: "2021-09-06T08:54:20.433Z"
+published-on: "2022-01-10T10:00:37.261Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

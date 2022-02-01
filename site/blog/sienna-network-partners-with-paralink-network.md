@@ -1,22 +1,22 @@
 ---
-published-date-month: "May"
 _archived: false
 _draft: false
-created-on: "2021-06-01T11:22:06.905Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b61855d64cc06bbe0c9060_Sienna%20x%20Paralink%20Blog.jpg"
-  alt: ""
-name: "Sienna Network partners with Paralink Network"
-slug: "sienna-network-partners-with-paralink-network"
 featured: false
-updated-on: "2021-06-01T11:23:44.753Z"
+published-date-month: "May 2021"
+name: "Sienna Network partners with Paralink Network"
 published-date-2: "20"
 read-time-in-min: "2 min."
 post-summary: "Sienna Network partners with Paralink Network to provide price data feeds"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b61855d64cc06bbe0c9060_Sienna%20x%20Paralink%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b61858d3a4664348ecf6b5_Sienna%20x%20Paralink%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T11:23:59.849Z"
+slug: "sienna-network-partners-with-paralink-network"
+updated-on: "2022-01-10T10:03:04.898Z"
+created-on: "2021-06-01T11:22:06.905Z"
+published-on: "2022-01-10T10:03:04.898Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

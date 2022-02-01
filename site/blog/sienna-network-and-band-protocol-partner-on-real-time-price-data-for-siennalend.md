@@ -1,22 +1,22 @@
 ---
-published-date-month: "December"
 _archived: false
 _draft: false
-created-on: "2021-12-07T04:50:55.673Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61aee807b0ee7613d5e40572_Sienna%20X%20Band%20Protocol%20Blog.jpg"
-  alt: ""
-name: "Sienna Network and Band Protocol partner on real-time price data for SiennaLend"
-slug: "sienna-network-and-band-protocol-partner-on-real-time-price-data-for-siennalend"
 featured: false
-updated-on: "2021-12-07T04:50:55.673Z"
+published-date-month: "December 2021"
+name: "Sienna Network and Band Protocol partner on real-time price data for SiennaLend"
 published-date-2: "02"
 read-time-in-min: "3 min."
 post-summary: "Sienna Network has chosen to work with Band Protocol to bring a reliable, time-tested data solution"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61aee80a3a405dc915dda6af_Sienna%20X%20Band%20Protocol%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-12-07T04:50:55.673Z"
+slug: "sienna-network-and-band-protocol-partner-on-real-time-price-data-for-siennalend"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61aee807b0ee7613d5e40572_Sienna%20X%20Band%20Protocol%20Blog.jpg"
+  alt: ""
+updated-on: "2022-01-10T09:49:31.603Z"
+created-on: "2021-12-07T04:50:55.673Z"
+published-on: "2022-01-10T10:05:09.302Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

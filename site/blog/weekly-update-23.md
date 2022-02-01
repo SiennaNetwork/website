@@ -1,22 +1,22 @@
 ---
-published-date-month: "December"
 _archived: false
 _draft: false
+featured: false
+published-date-2: "05"
+published-date-month: "December 2021"
+post-summary: "Win up to 2300 wSIENNA!"
+name: "Weekly Update #23"
+slug: "weekly-update-23"
+updated-on: "2022-01-10T09:49:22.389Z"
 created-on: "2021-12-07T05:01:15.490Z"
+published-on: "2022-01-10T10:05:09.302Z"
 main-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61aeeb86fc3ed8189cc85b68_weekly-update-23%20Blog.jpg"
   alt: ""
-name: "Weekly Update #23"
-slug: "weekly-update-23"
-featured: false
-updated-on: "2021-12-07T05:14:39.106Z"
-published-date-2: "05"
 read-time-in-min: "2 min."
-post-summary: "Win up to 2300 wSIENNA!"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/61aeeb89662674e74f36a9a8_weekly-update-23%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-12-07T05:14:39.106Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

@@ -1,22 +1,22 @@
 ---
-published-date-month: "April"
 _archived: false
 _draft: false
-created-on: "2021-05-31T12:41:54.660Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4d971388e8ba420dcba8e_SIENNA%20public%20sales%20Blog.jpg"
-  alt: ""
-name: "Dual public sale on DAO Maker & Polkastarter"
-slug: "sienna-announces-dual-public-sale-on-dao-maker-polkastarter"
 featured: false
-updated-on: "2021-06-01T10:29:37.295Z"
+published-date-month: "April 2021"
+name: "Dual public sale on DAO Maker & Polkastarter"
 published-date-2: "19"
 read-time-in-min: "2 min."
 post-summary: "Sienna is happy to announce that the company is making a dual public sale on DAO Maker & Polkastarter!"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4d9769024d6a892847be6_SIENNA%20public%20sales%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T10:29:43.183Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4d971388e8ba420dcba8e_SIENNA%20public%20sales%20Blog.jpg"
+  alt: ""
+slug: "sienna-announces-dual-public-sale-on-dao-maker-polkastarter"
+updated-on: "2022-01-10T10:03:55.002Z"
+created-on: "2021-05-31T12:41:54.660Z"
+published-on: "2022-01-10T10:03:55.002Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

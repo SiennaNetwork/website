@@ -1,22 +1,22 @@
 ---
-published-date-month: "May"
 _archived: false
 _draft: false
-created-on: "2021-06-01T11:02:38.200Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b613b281227d8ecd026021_Gate-io%20listing%20Blog.jpg"
-  alt: ""
-name: "Sienna is listing on Gate.io"
-slug: "sienna-is-listing-on-gate-io"
 featured: false
-updated-on: "2021-06-01T11:23:29.804Z"
+published-date-month: "May 2021"
+name: "Sienna is listing on Gate.io"
 published-date-2: "03"
 read-time-in-min: "1 min."
 post-summary: "Trading time starts: May 5th, 4pm UTC"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b613b648ff4ce6e28cfd87_Gate-io%20listing%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T11:23:59.849Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b613b281227d8ecd026021_Gate-io%20listing%20Blog.jpg"
+  alt: ""
+slug: "sienna-is-listing-on-gate-io"
+updated-on: "2022-01-10T10:03:27.039Z"
+created-on: "2021-06-01T11:02:38.200Z"
+published-on: "2022-01-10T10:03:27.039Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

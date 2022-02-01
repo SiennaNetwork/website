@@ -1,22 +1,22 @@
 ---
-published-date-month: "March"
 _archived: false
 _draft: false
-created-on: "2021-05-31T09:23:24.883Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4aa69b8ee6f6d7bb6bbe9_Set%20up%20Keplr%20Blog.jpg"
-  alt: ""
-name: "How to set up Keplr wallet for Sienna Network"
-slug: "how-to-set-up-keplr-wallet-for-sienna-network"
 featured: false
-updated-on: "2021-06-01T09:59:56.262Z"
+published-date-month: "March 2021"
+name: "How to set up Keplr wallet for Sienna Network"
 published-date-2: "26"
 read-time-in-min: "4 min."
 post-summary: "In order to use Sienna’s platform you will need to install Keplr"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4aa6d2c3a150ea50137df_Set%20up%20Keplr%20Thump.jpg"
   alt: ""
-published-on: "2021-06-01T10:00:27.033Z"
+slug: "how-to-set-up-keplr-wallet-for-sienna-network"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60b4aa69b8ee6f6d7bb6bbe9_Set%20up%20Keplr%20Blog.jpg"
+  alt: ""
+updated-on: "2022-01-10T10:04:06.452Z"
+created-on: "2021-05-31T09:23:24.883Z"
+published-on: "2022-01-10T10:04:06.452Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

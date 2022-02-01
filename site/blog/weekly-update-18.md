@@ -1,22 +1,22 @@
 ---
-published-date-month: "October"
 _archived: false
 _draft: false
-created-on: "2021-11-01T09:45:31.537Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/617fb7245753cb40144d69ed_weekly-update-18%20Blog.jpg"
-  alt: ""
-name: "Weekly Update #18"
-slug: "weekly-update-18"
 featured: false
-updated-on: "2021-11-01T09:45:31.537Z"
+published-date-month: "October 2021"
+name: "Weekly Update #18"
 published-date-2: "31"
 read-time-in-min: "2 min."
 post-summary: "Sienna is working on getting listed on more exchanges. Multiple listings coming soon 🎉"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/617fb72848c7ab0416156078_weekly-update-18%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-11-01T09:45:31.537Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/617fb7245753cb40144d69ed_weekly-update-18%20Blog.jpg"
+  alt: ""
+slug: "weekly-update-18"
+updated-on: "2022-01-10T09:50:45.103Z"
+created-on: "2021-11-01T09:45:31.537Z"
+published-on: "2022-01-10T09:50:45.103Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

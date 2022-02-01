@@ -1,22 +1,22 @@
 ---
-published-date-month: "July"
 _archived: false
 _draft: false
-created-on: "2021-07-19T06:46:32.548Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60f51fa3b13e231296eade0d_weekly-update-05%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #05"
-slug: "weekly-dev-update-05"
 featured: false
-updated-on: "2021-07-19T06:48:39.583Z"
+published-date-month: "July 2021"
+name: "Weekly Dev. Update #05"
 published-date-2: "18"
 read-time-in-min: "2 min."
 post-summary: "Final tests are being run and should be ready next week."
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60f51fa3b13e231296eade0d_weekly-update-05%20Blog.jpg"
+  alt: ""
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60f51fad42eda3cfa5b6899d_weekly-update-05%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-08-01T20:16:57.710Z"
+slug: "weekly-dev-update-05"
+updated-on: "2022-01-10T10:01:57.831Z"
+created-on: "2021-07-19T06:46:32.548Z"
+published-on: "2022-01-10T10:01:57.831Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

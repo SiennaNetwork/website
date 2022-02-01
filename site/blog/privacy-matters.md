@@ -1,22 +1,22 @@
 ---
-published-date-month: "July"
 _archived: false
 _draft: false
-created-on: "2021-07-08T08:03:55.481Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd90c54bf78862a7580ad8_Privacy%20matters%20Blog.jpg"
-  alt: ""
-name: "Privacy matters"
-slug: "privacy-matters"
 featured: false
-updated-on: "2021-07-08T08:06:26.067Z"
+published-date-month: "July 2021"
+name: "Privacy matters"
 published-date-2: "08"
 read-time-in-min: "8 min."
 post-summary: "Tired of public ledgers and front-running? - Sienna fixes this!"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd90cc27489bd0f2ce5acf_Privacy%20matters%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-07-08T08:06:53.370Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/60dd90c54bf78862a7580ad8_Privacy%20matters%20Blog.jpg"
+  alt: ""
+slug: "privacy-matters"
+updated-on: "2022-01-10T10:02:16.296Z"
+created-on: "2021-07-08T08:03:55.481Z"
+published-on: "2022-01-10T10:02:16.296Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

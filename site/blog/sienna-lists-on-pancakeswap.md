@@ -1,22 +1,22 @@
 ---
-published-date-month: "September"
 _archived: false
 _draft: false
-created-on: "2021-09-06T09:07:17.638Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135da1f04650a5c9e04bcc6_Sienna%20Network%20lists%20%20on%20Pancake%20Swap%20Blog.jpg"
-  alt: ""
-name: "Sienna lists on PancakeSwap"
-slug: "sienna-lists-on-pancakeswap"
 featured: false
-updated-on: "2021-09-06T09:07:17.638Z"
+published-date-month: "September 2021"
+name: "Sienna lists on PancakeSwap"
 published-date-2: "01"
 read-time-in-min: "2 min."
 post-summary: "Sienna Network, a privacy-first DeFi protocol built on Secret Network has listed on PancakeSwap"
+slug: "sienna-lists-on-pancakeswap"
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135da28d05065bdda99fe55_Sienna%20Network%20lists%20%20on%20Pancake%20Swap%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-09-06T09:07:17.638Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/6135da1f04650a5c9e04bcc6_Sienna%20Network%20lists%20%20on%20Pancake%20Swap%20Blog.jpg"
+  alt: ""
+updated-on: "2022-01-10T10:00:24.085Z"
+created-on: "2021-09-06T09:07:17.638Z"
+published-on: "2022-01-10T10:00:24.085Z"
 tags: "blog"
 layout: "single-blog.html"
 ---

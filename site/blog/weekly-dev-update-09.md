@@ -1,22 +1,22 @@
 ---
-published-date-month: "August"
 _archived: false
 _draft: false
-created-on: "2021-08-16T11:15:57.982Z"
-main-image:
-  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/611a48e6b056a4858ddbd497_weekly-update-09%20Blog.jpg"
-  alt: ""
-name: "Weekly Dev. Update #09"
-slug: "weekly-dev-update-09"
 featured: false
-updated-on: "2021-08-16T11:15:57.982Z"
+published-date-month: "August 2021"
+name: "Weekly Dev. Update #09"
 published-date-2: "15"
 read-time-in-min: "2 min."
 post-summary: "Pre-report from Certik was received August 11th where no major issues were identified."
 thumbnail-image:
   url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/611a48e35f83f6c5cd434197_weekly-update-09%20Blog%20Thump.jpg"
   alt: ""
-published-on: "2021-08-16T11:15:57.982Z"
+main-image:
+  url: "https://uploads-ssl.webflow.com/60621456954600aa473c3cd0/611a48e6b056a4858ddbd497_weekly-update-09%20Blog.jpg"
+  alt: ""
+slug: "weekly-dev-update-09"
+updated-on: "2022-01-10T10:01:14.637Z"
+created-on: "2021-08-16T11:15:57.982Z"
+published-on: "2022-01-10T10:01:14.637Z"
 tags: "blog"
 layout: "single-blog.html"
 ---
