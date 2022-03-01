@@ -2915,15 +2915,7 @@
   align-self: auto;
 }
 
-.roadmap-wrapper.q4._2021 {
-  margin-bottom: 0px;
-}
-
 .roadmap-wrapper.q4._2022 {
-  margin-bottom: 0px;
-}
-
-.roadmap-wrapper.q1._2021 {
   margin-bottom: 0px;
 }
 
@@ -2931,15 +2923,7 @@
   margin-bottom: 0px;
 }
 
-.roadmap-wrapper.q2._2021 {
-  margin-bottom: 0px;
-}
-
 .roadmap-wrapper.q2._2022 {
-  margin-bottom: 0px;
-}
-
-.roadmap-wrapper.q3._2021 {
   margin-bottom: 0px;
 }
 
@@ -5431,11 +5415,6 @@
   border-bottom: 1px solid #eaeaea;
   border-left: 1px solid #eaeaea;
   background-color: #fff;
-}
-
-.youtube-what-is-sienna {
-  width: auto;
-  height: auto;
 }
 
 .video-fp-wrapper {
