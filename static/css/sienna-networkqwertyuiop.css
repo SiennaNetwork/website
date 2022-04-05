@@ -5008,6 +5008,10 @@
   display: none;
 }
 
+.nav-open-mobile.symbol {
+  display: none;
+}
+
 .section-lend-frontpage {
   display: -webkit-box;
   display: -webkit-flex;
@@ -9545,6 +9549,10 @@
   .row-tree-div-block {
     padding-right: 0px;
     padding-left: 0px;
+  }
+
+  .nav-open-mobile.symbol {
+    display: none;
   }
 
   .open-menu-wrapper-mobile {
