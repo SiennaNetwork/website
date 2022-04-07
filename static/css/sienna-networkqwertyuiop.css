@@ -4223,7 +4223,10 @@
 }
 
 .listed-on-content-wrapper.temp {
-  display: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .pancakeswap-link-block {
@@ -5072,7 +5075,7 @@
 }
 
 .partner-wrapper._13 {
-  display: none;
+  display: block;
 }
 
 .sienna-swap-logo-fp {
