@@ -1,8 +1,8 @@
 ---
-title: "Siennalend"
+title: "Lend"
 permalink: "{{ page.fileSlug }}/index.html"
-layout: "siennalend.html"
-slug: "siennalend"
+layout: "lend.html"
+slug: "lend"
 tags: "pages"
 seo:
   title: "SiennaLend"
