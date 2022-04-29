@@ -2060,6 +2060,7 @@
 .mini-subheader.pos {
   margin-bottom: 20px;
   color: #28282e;
+  text-decoration: none;
   text-transform: uppercase;
 }
 
@@ -5657,6 +5658,141 @@
   justify-content: center;
 }
 
+.section-pr {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: auto;
+  margin-top: 60px;
+  margin-right: 40px;
+  margin-left: 40px;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  border-right: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+}
+
+.pr-left-content-wrapper {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 60px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  height: 100vh;
+  padding-bottom: 0px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-right: 1px solid #eaeaea;
+  background-color: #fff;
+}
+
+.body-22 {
+  background-color: #f9f9f9;
+}
+
+.pr-txt-header-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: visible;
+  width: 75%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.pr-right-content-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  padding-right: 0px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.pr-link-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.pr-link-wrap {
+  text-decoration: none;
+}
+
+.pr-logo-wrapper {
+  margin-bottom: 20px;
+}
+
+.logo-pr-page {
+  -webkit-filter: contrast(96%);
+  filter: contrast(96%);
+}
+
+.logo-pr-page.altcoin {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.pr-txt-links {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 20px;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  font-family: Inter, sans-serif;
+  color: #28282e;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.pr-devideline {
+  height: 1px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  background-color: #eaeaea;
+}
+
 @media screen and (max-width: 991px) {
   .setion-hero-frontpage {
     height: 100vh;
@@ -7629,6 +7765,39 @@
   .siennalend-logo-wrapper {
     width: 75%;
   }
+
+  .section-pr {
+    margin-right: 20px;
+    margin-left: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .pr-left-content-wrapper {
+    position: static;
+    width: 100%;
+    height: 50vh;
+    border-bottom: 1px solid #eaeaea;
+    border-right-width: 0px;
+  }
+
+  .pr-txt-header-wrap {
+    width: auto;
+  }
+
+  .pr-right-content-wrapper {
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+
+  .pr-link-wrapper {
+    width: auto;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -8330,6 +8499,27 @@
   .siennalend-right {
     width: 100%;
   }
+
+  .pr-left-content-wrapper {
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+
+  .pr-right-content-wrapper {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .pr-link-wrapper {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -8559,6 +8749,10 @@
 
   .standard-link-block.pos {
     margin-right: 0px;
+  }
+
+  .standard-link-block.pos.pdf-link {
+    margin-right: 20px;
   }
 
   .column-fully-decentralized {
@@ -9648,6 +9842,22 @@
 
   .siennalend-logo-wrapper {
     width: 90%;
+  }
+
+  .pr-left-content-wrapper {
+    padding-right: 20px;
+  }
+
+  .pr-txt-header-wrap {
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .pr-link-wrapper {
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 }
 
