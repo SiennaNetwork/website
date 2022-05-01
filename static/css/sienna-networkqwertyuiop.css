@@ -5264,7 +5264,7 @@
   border-right: 1px solid #eaeaea;
   border-bottom: 1px solid #eaeaea;
   border-left: 1px solid #eaeaea;
-  background-color: #fff;
+  background-color: #202024;
 }
 
 .video-fp-wrapper {
@@ -5840,28 +5840,15 @@
 }
 
 .section-sienna-knights {
-  display: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   height: auto;
   margin-right: 40px;
   margin-left: 40px;
   padding-top: 60px;
   padding-bottom: 0px;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  border-right: 1px solid #eaeaea;
-  border-left: 1px solid #eaeaea;
-  background-color: #000;
-  background-image: linear-gradient(227deg, #1a1a1a, #000 50%);
-}
-
-.sn-left-area-content-wrapper {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 40%;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -5871,15 +5858,50 @@
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  -webkit-box-align: start;
-  -webkit-align-items: flex-start;
-  -ms-flex-align: start;
-  align-items: flex-start;
+  border-right: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+  background-color: #000;
+  background-image: linear-gradient(347deg, #131313, #000 51%);
+}
+
+.sn-left-area-content-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: auto;
+  max-height: none;
+  padding-top: 20px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .knight-wrap {
-  width: 80%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 30%;
   margin-left: 0px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .sn-right-content-wrapper {
@@ -5887,8 +5909,11 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 60%;
+  width: auto;
+  height: auto;
+  margin-top: 0px;
   margin-bottom: 60px;
+  padding-top: 60px;
   padding-right: 60px;
   padding-left: 60px;
   -webkit-box-orient: vertical;
@@ -5900,10 +5925,10 @@
   -webkit-justify-content: flex-end;
   -ms-flex-pack: end;
   justify-content: flex-end;
-  -webkit-box-align: start;
-  -webkit-align-items: flex-start;
-  -ms-flex-align: start;
-  align-items: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .sn-content-wrap {
@@ -5911,7 +5936,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: auto;
+  width: 80%;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -5920,16 +5945,35 @@
 }
 
 .sn-logo-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.siennaknight-logo-neg {
   width: 75%;
-  margin-bottom: 60px;
-  margin-left: 60px;
+  max-width: none;
 }
 
 .siennaknight-txt-headline {
   font-family: Inter, sans-serif;
   color: #f9f9f9;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 100;
 }
 
 .sn-devideline {
@@ -5950,6 +5994,9 @@
 }
 
 .siennaknight-video {
+  width: auto;
+  height: auto;
+  max-height: none;
   margin-top: 20px;
   margin-bottom: 40px;
 }
@@ -5968,7 +6015,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 6px;
+  border-radius: 0px;
   background-color: #f9f9f9;
   text-decoration: none;
 }
@@ -5987,6 +6034,10 @@
 
 .knight-button-txt:hover {
   color: #fff;
+}
+
+.sn-video-container {
+  width: 80%;
 }
 
 @media screen and (max-width: 991px) {
@@ -8022,6 +8073,53 @@
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
+  .section-sienna-knights {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .sn-left-area-content-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .knight-wrap {
+    width: 50%;
+    margin-left: 0px;
+    padding-bottom: 0px;
+  }
+
+  .sn-right-content-wrapper {
+    margin-bottom: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  .sn-content-wrap {
+    width: auto;
+  }
+
+  .sn-logo-wrapper {
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+
+  .siennaknight-logo-neg {
+    width: 50%;
+  }
+
+  .sn-video-container {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -9656,11 +9754,16 @@
   }
 
   .left-area-faq {
-    height: 50vh;
+    height: auto;
   }
 
   .faq-wrapper {
     padding: 20px;
+  }
+
+  .faq-header-wrapper {
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .leaft-area-subpage.impressum {
@@ -9672,11 +9775,15 @@
   }
 
   .leaft-area-subpage.privacy {
-    padding-left: 20px;
+    height: auto;
+    padding: 20px 20px 0px;
   }
 
   .leaft-area-subpage.whitepaper {
-    height: 25vh;
+    height: auto;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
   }
 
   .impressum-content-wrapper {
@@ -9704,12 +9811,21 @@
   }
 
   .left-area-audit-report {
-    height: 25vh;
+    height: auto;
     margin-top: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .right-area-audit-report {
     height: auto;
+  }
+
+  .audit-header-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
   }
 
   .audit-content-wrapper {
@@ -10092,6 +10208,47 @@
 
   .section-featured-in {
     padding: 20px;
+  }
+
+  .section-sienna-knights {
+    padding-top: 40px;
+  }
+
+  .sn-left-area-content-wrapper {
+    max-height: none;
+  }
+
+  .knight-wrap {
+    width: 90%;
+    margin-left: 0px;
+    padding-bottom: 0px;
+  }
+
+  .sn-right-content-wrapper {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .sn-logo-wrapper {
+    width: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .siennaknight-logo-neg {
+    width: 90%;
+  }
+
+  .siennaknight-video {
+    margin-bottom: 40px;
+  }
+
+  .siennaknight-img {
+    margin-left: -6px;
   }
 }
 
