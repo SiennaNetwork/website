@@ -2131,11 +2131,11 @@
   background-color: #28282e;
 }
 
-.swap-header-wrapper {
+.product-header-wrapper {
   display: block;
 }
 
-.do-a-swap-header {
+.product-hero-txt {
   display: block;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -3299,7 +3299,7 @@
   font-size: 12px;
 }
 
-.link-to-app---toek-addresses {
+.link-to-app---token-addresses {
   position: fixed;
   left: 0%;
   top: auto;
@@ -5970,6 +5970,204 @@
   width: 80%;
 }
 
+.section-header-product-page {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  margin-top: 60px;
+  margin-right: 40px;
+  margin-left: 40px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #28282e;
+}
+
+.section-siennadao-comtent {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 40px;
+  margin-left: 40px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-right: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+}
+
+.siennadao-left-content-wrap {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  height: 100vh;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.siennadao-right-content-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.siennadao-logo-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.siennadao-txt-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.section-siennalaunch-comtent {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 40px;
+  margin-left: 40px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  border-right: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+}
+
+.left-launch-content {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  height: 100vh;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.right-launch-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.launch-logo-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.siennalaunch-txt-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
 @media screen and (max-width: 991px) {
   .setion-hero-frontpage {
     height: 100vh;
@@ -6671,12 +6869,12 @@
 
   .section-swap-header {
     position: relative;
-    height: 100vh;
+    height: 50vh;
     margin-right: 20px;
     margin-left: 20px;
   }
 
-  .swap-header-wrapper {
+  .product-header-wrapper {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -6686,14 +6884,22 @@
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    -webkit-box-align: start;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 
-  .do-a-swap-header {
-    font-size: 21vw;
+  .product-hero-txt {
+    font-size: 20vw;
+  }
+
+  .product-hero-txt.launch {
+    font-size: 20vw;
   }
 
   .section-pool-header {
@@ -6754,7 +6960,7 @@
   }
 
   .section-token-hero {
-    height: 75vh;
+    height: 50vh;
     margin-right: 20px;
     margin-left: 20px;
   }
@@ -6769,10 +6975,10 @@
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    -webkit-box-align: start;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 
   .token-header {
@@ -6826,7 +7032,7 @@
 
   .section-bridge {
     position: static;
-    height: 75vh;
+    height: 50vh;
     margin-right: 20px;
     margin-left: 20px;
   }
@@ -6841,10 +7047,14 @@
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    -webkit-box-align: start;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     font-size: 18vw;
   }
 
@@ -7153,7 +7363,7 @@
     color: #949497;
   }
 
-  .link-to-app---toek-addresses {
+  .link-to-app---token-addresses {
     display: none;
   }
 
@@ -7573,6 +7783,14 @@
     line-height: 22px;
   }
 
+  .open-menu-txt-link.mobile.temp {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    color: #bfbfc0;
+  }
+
   .nav-new-mobile {
     position: fixed;
     left: 0%;
@@ -7716,7 +7934,8 @@
   }
 
   .lend-content-wrapper {
-    width: auto;
+    width: 100%;
+    padding: 40px 16px;
   }
 
   .share-blog-twitter-link {
@@ -7855,6 +8074,7 @@
   }
 
   .section-wrapping-header {
+    height: 50vh;
     margin-right: 20px;
     margin-left: 20px;
   }
@@ -7869,10 +8089,10 @@
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    -webkit-box-align: start;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 
   .wrapping-header {
@@ -7923,7 +8143,7 @@
   }
 
   .section-header-lend {
-    height: 100vh;
+    height: 50vh;
     margin-right: 20px;
     margin-left: 20px;
   }
@@ -7937,6 +8157,10 @@
   .section-lend-content {
     margin-right: 20px;
     margin-left: 20px;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
   }
 
   .siennalend-logo-wrapper {
@@ -8049,6 +8273,51 @@
 
   .sn-video-container {
     width: 100%;
+  }
+
+  .section-header-product-page {
+    height: 50vh;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .section-siennadao-comtent {
+    margin-right: 20px;
+    margin-left: 20px;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .siennadao-right-content-wrap {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .siennadao-logo-wrapper {
+    width: 75%;
+  }
+
+  .siennadao-txt-wrapper {
+    width: auto;
+    padding: 40px 16px;
+  }
+
+  .section-siennalaunch-comtent {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .launch-logo-wrapper {
+    width: 75%;
+  }
+
+  .siennalaunch-txt-wrapper {
+    width: auto;
+    padding: 40px 16px;
   }
 }
 
@@ -8433,8 +8702,8 @@
     height: 50vh;
   }
 
-  .do-a-swap-header {
-    font-size: 27vw;
+  .product-hero-txt {
+    font-size: 20vw;
   }
 
   .section-pool-header {
@@ -8741,7 +9010,7 @@
   .siennalend-left {
     width: 75%;
     height: auto;
-    padding-left: 20px;
+    padding-left: 16px;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
@@ -8750,6 +9019,8 @@
 
   .siennalend-right {
     width: 100%;
+    padding-right: 16px;
+    padding-left: 16px;
   }
 
   .pr-left-content-wrapper {
@@ -8777,6 +9048,71 @@
     padding-right: 40px;
     padding-bottom: 40px;
     padding-left: 40px;
+  }
+
+  .section-siennadao-comtent {
+    margin-right: 20px;
+    margin-left: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .siennadao-left-content-wrap {
+    position: static;
+    width: auto;
+    height: auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 16px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .siennadao-right-content-wrap {
+    width: auto;
+  }
+
+  .siennadao-txt-wrapper {
+    padding: 20px 16px 40px;
+  }
+
+  .section-siennalaunch-comtent {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .left-launch-content {
+    position: static;
+    width: auto;
+    height: auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 16px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+
+  .right-launch-content {
+    width: auto;
+  }
+
+  .siennalaunch-txt-wrapper {
+    padding-top: 20px;
+    padding-bottom: 40px;
   }
 }
 
@@ -8990,7 +9326,7 @@
 
   .column-privacy-first {
     position: static;
-    padding: 40px 20px;
+    padding: 40px 16px;
     border-right-width: 1px;
   }
 
@@ -9007,6 +9343,7 @@
 
   .standard-link-block.pos {
     margin-right: 0px;
+    padding-right: 20px;
   }
 
   .standard-link-block.pos.pdf-link {
@@ -9017,15 +9354,15 @@
     position: static;
     margin-top: auto;
     padding-top: 40px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 16px;
+    padding-left: 16px;
     border-right-width: 1px;
     background-color: transparent;
   }
 
   .column-sienna-token {
     position: static;
-    padding: 40px 20px;
+    padding: 40px 16px;
   }
 
   .columns {
@@ -9045,7 +9382,7 @@
   .eco-left-area-frontpage-wrapper {
     height: auto;
     margin-bottom: 0px;
-    padding: 20px 20px 40px;
+    padding: 20px 16px 40px;
     border-right-width: 0px;
     background-color: #f9f9f9;
   }
@@ -9053,8 +9390,8 @@
   .eco-right-frontpage {
     margin-top: 0px;
     padding-top: 40px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 16px;
+    padding-left: 16px;
   }
 
   .eco-link-block.senius {
@@ -9080,7 +9417,7 @@
     display: flex;
     margin-right: 20px;
     margin-left: 20px;
-    padding: 0px;
+    padding: 0px 16px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -9114,7 +9451,7 @@
 
   .join-community-txt-wrapper {
     margin-top: 0px;
-    padding: 20px 20px 0px;
+    padding: 20px 0px 0px;
     background-color: transparent;
   }
 
@@ -9226,8 +9563,8 @@
 
   .right-area-swap-frontpage {
     width: auto;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 16px;
+    padding-left: 16px;
   }
 
   .section-swap-frontpage {
@@ -9290,8 +9627,8 @@
     margin-right: 20px;
     margin-left: 20px;
     padding-top: 20px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 16px;
+    padding-left: 16px;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -9393,6 +9730,11 @@
     padding-left: 20px;
   }
 
+  .section-pool-content {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
   .left-area-pool {
     padding-right: 20px;
     padding-left: 20px;
@@ -9427,8 +9769,12 @@
     margin-top: 60px;
   }
 
-  .do-a-swap-header {
-    font-size: 24vw;
+  .product-hero-txt {
+    font-size: 18vw;
+  }
+
+  .product-hero-txt.launch {
+    font-size: 17vw;
   }
 
   .section-pool-header {
@@ -9514,7 +9860,7 @@
 
   .section-token-hero {
     z-index: 1;
-    height: 25vh;
+    height: 50vh;
     margin-top: 64px;
     background-color: #28282e;
   }
@@ -9558,7 +9904,7 @@
   }
 
   .section-bridge {
-    height: 25vh;
+    height: 50vh;
     margin-top: 60px;
     background-color: #28282e;
   }
@@ -9731,9 +10077,9 @@
   }
 
   .listed-left-area.frontpage {
-    padding-right: 20px;
+    padding-right: 16px;
     padding-bottom: 40px;
-    padding-left: 20px;
+    padding-left: 16px;
   }
 
   .listed-right-area {
@@ -9871,7 +10217,9 @@
   }
 
   .listed-on-content-wrapper {
+    padding-right: 16px;
     padding-bottom: 20px;
+    padding-left: 16px;
   }
 
   .section-sienna-bsc-hero {
@@ -9944,9 +10292,9 @@
   }
 
   .left-content-wrapper-lend-fp {
-    padding-right: 0px;
+    padding-right: 16px;
     padding-bottom: 20px;
-    padding-left: 0px;
+    padding-left: 16px;
   }
 
   .lend-ui-wrapper-fp {
@@ -9955,7 +10303,7 @@
 
   .lend-content-wrapper {
     width: auto;
-    padding: 20px 20px 40px;
+    padding: 20px 0px 40px;
   }
 
   .job-header-left-area {
@@ -10081,7 +10429,7 @@
   }
 
   .section-wrapping-header {
-    height: 25vh;
+    height: 50vh;
   }
 
   .wrapping-header {
@@ -10096,12 +10444,27 @@
     align-items: center;
   }
 
+  .section-wrapping-content {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .left-area-header-wrap {
+    margin-right: auto;
+  }
+
   .siennawrap-logo-wrapper {
+    width: auto;
+    padding-bottom: 32px;
     padding-left: 0px;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
+  }
+
+  .siennawrap-logo-pos {
+    width: 90%;
   }
 
   .section-header-lend {
@@ -10137,7 +10500,7 @@
   }
 
   .section-featured-in {
-    padding: 20px;
+    padding: 20px 16px;
   }
 
   .section-sienna-knights {
@@ -10159,8 +10522,8 @@
   }
 
   .sn-right-content-wrapper {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 16px;
+    padding-left: 16px;
   }
 
   .sn-logo-wrapper {
@@ -10183,6 +10546,22 @@
 
   .siennaknight-img {
     margin-left: -6px;
+  }
+
+  .section-header-product-page {
+    height: 50vh;
+  }
+
+  .siennadao-left-content-wrap {
+    padding-right: 16px;
+  }
+
+  .siennadao-logo-wrapper {
+    width: 90%;
+  }
+
+  .launch-logo-wrapper {
+    width: 90%;
   }
 }
 
