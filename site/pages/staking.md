@@ -1,13 +1,13 @@
 ---
-title: "Siennalaunch"
+title: "Staking"
 permalink: "{{ page.fileSlug }}/index.html"
-layout: "siennalaunch.html"
-slug: "siennalaunch"
+layout: "staking.html"
+slug: "staking"
 tags: "pages"
 seo:
-  title: "SiennaLaunch"
+  title: "Sienna Staking"
   description: "SiennaLaunch is Sienna Network’s official launchpad protocol. Projects can utilize SiennaLaunch for every step of a successful launch. From the initial token generation event (TGE) to the initial DEX offering (IDO) and subsequent listing on SiennaSwap (and everything in between)."
-  og_title: "SiennaLaunch"
+  og_title: "Sienna Staking"
   og_description: "SiennaLaunch is Sienna Network’s official launchpad protocol. Projects can utilize SiennaLaunch for every step of a successful launch. From the initial token generation event (TGE) to the initial DEX offering (IDO) and subsequent listing on SiennaSwap (and everything in between)."
   og_image: "https://uploads-ssl.webflow.com/6049ea5c7a2d486bda232375/60a77be1dbf7c429d5001b6e_Open%20Graph%20Image%20Frontpage%202.0.jpg"
   og_type: "website"
